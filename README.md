@@ -11,13 +11,13 @@ A enthusiastic Software developer from Bangladesh.
     * [BIDA One Stop Service](https://bidaquickserv.org/) 
     *  -->
 
-- 🌱 I’m currently learning **Flask, Django**
+- 🌱 I’m currently learning **Web Security, Website Hacking, Web Application Penetration Testing**
 
-- 💬 Ask me about **Php, Laravel, MySQL**
+- 💬 Ask me about **Php, Laravel, MySQL, Python, Flask**
 
 - 📫 How to reach me **rezabaiust@gmail.com**
 
-- 📄 Take a look at my [Curriculum vitae](https://drive.google.com/file/d/1GsJTD-hn_0wyj7x2Bwh641RzM8rXUsJ1/view?usp=share_link)
+- 📄 Take a look at my [Curriculum vitae]([https://drive.google.com/file/d/1GsJTD-hn_0wyj7x2Bwh641RzM8rXUsJ1/view?usp=share_link](https://drive.google.com/file/d/1DJ45ItBCu6WgIYaAzBNWLQWK3x96eKbf/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
