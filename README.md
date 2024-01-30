@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Reza</h1>
 <p align="center">
-A enthusiastic Software developer from Bangladesh.
+A enthusiastic Programmer from Bangladesh.
 </p>
 
 <h3 align="center"></h3>
